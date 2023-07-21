@@ -1,0 +1,1 @@
+select* from where productId =20
